@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-g0pwnh.biggamingwin.online/sitemap.xml
